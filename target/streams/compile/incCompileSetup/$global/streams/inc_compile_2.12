@@ -1,0 +1,144 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/selva/IdeaProjects/Helloworld/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> /home/selva/IdeaProjects/Helloworld/target/scala-2.12/classes/hw$.class
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> /home/selva/IdeaProjects/Helloworld/target/scala-2.12/classes/hw.class
+binary dependencies:
+2 items
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> /home/selva/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> hw
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> hw$
+used names:
+64 items
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> *
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> +
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> +:
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> -
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> /
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> <init>
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> <repeated>
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> ==
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> A
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> A1
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> Any
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> AnyRef
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> Array
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> B
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> Boolean
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> CanBuildFrom
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> Coll
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> Function1
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> Inclusive
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> Int
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> List
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> Nothing
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> Object
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> Predef
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> Range
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> RichInt
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> String
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> StringOps
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> That
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> U
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> Unit
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> apply
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> args
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> augmentString
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> by
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> canBuildFrom
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> collection
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> combinations
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> contains
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> current
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> denominator
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> factor
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> factorial
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> fibonacci
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> foreach
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> hw
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> immutable
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> intWrapper
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> isFibonacci
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> n
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> number
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> numerator
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> package
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> previous
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> println
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> r
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> result
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> scala
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> series
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> seriesValues
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> temp
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> to
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> toInt
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> value
+product stamps:
+2 items
+/home/selva/IdeaProjects/Helloworld/target/scala-2.12/classes/hw$.class -> lastModified(1505324788000)
+/home/selva/IdeaProjects/Helloworld/target/scala-2.12/classes/hw.class -> lastModified(1505324788000)
+source stamps:
+1 items
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> hash(52e64d583267d0de3cc0dc7e666e5ac84ac68023)
+binary stamps:
+2 items
+/home/selva/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> lastModified(1480936165000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1492652166000)
+class names:
+2 items
+/home/selva/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> scala.LowPriorityImplicits
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw5LBtSAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwxRF6G3QAC2lzRmlib25hY2Npc3EAfgAMD2/dinQABm5vdGlmeXNxAH4ADOSv8st0AAlmYWN0b3JpYWxzcQB+AAwixxxqdAAEd2FpdHNxAH4ADFx1Rg10AA0kYXNJbnN0YW5jZU9mc3EAfgAMykzZcXQABmVxdWFsc3NxAH4ADGOTYOl0AAxhc0luc3RhbmNlT2ZzcQB+AAy2Ng/6dAAMc3luY2hyb25pemVkc3EAfgAMJXSw93QADSRpc0luc3RhbmNlT2ZzcQB+AAx7wj0SdAAEbWFpbnNxAH4ADIxPBK90AAlub3RpZnlBbGxzcQB+AAy58ehpdAAMaXNJbnN0YW5jZU9mc3EAfgAMPoUEM3QAAmh3c3EAfgAMRgQ8KHQADGNvbWJpbmF0aW9uc3NxAH4ADKC4I5N0AAI9PXNxAH4ADODr+dJ0AAVjbG9uZXNxAH4ADKZL7Ox0AAh0b1N0cmluZ3NxAH4ADF3/QBZ0AAIhPXNxAH4ADFFBjp50AAhnZXRDbGFzc3NxAH4ADC7B54h0AAJuZXNxAH4ADKkTg010AAlmaWJvbmFjY2lzcQB+AAxD0IzzdAACZXFzcQB+AAyFgZ2idAACIyNzcQB+AAzsv/c8dAAIZmluYWxpemVzcQB+AAxTIVg0dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ACd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBlc3EAfgBgdXEAfgBEAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBKcQB+AFN1cQB+AFQAAAAAc3EAfgBWAHEAfgAhdXEAfgBYAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGR0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBkc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCAdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AbXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AW3QABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AdFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AZHNxAH4Ac3QABUFycmF5cQB+AHl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4Ac3QABlN0cmluZ3NxAH4Ad3NxAH4AenVxAH4AfQAAAANzcQB+AH90AARqYXZhc3EAfgB/dAAEbGFuZ3EAfgCEc3EAfgBgdXEAfgBEAAAAAHNxAH4AYHVxAH4AmAAAAAJzcQB+AHN0AAZPYmplY3RxAH4AnHNxAH4Ac3QAA0FueXEAfgB5dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV58WVXCdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPS9ob21lL3NlbHZhL0lkZWFQcm9qZWN0cy9IZWxsb3dvcmxkL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRS5k1YMmfQ3jzA3H5mblrISsaAIw==
+external apis:
+0 items
+source infos:
+1 items
+/home/selva/IdeaProjects/Helloworld/src/main/scala/hw.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXk2Z57t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL3NlbHZhL0lkZWFQcm9qZWN0cy9IZWxsb3dvcmxkL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXnxQQf51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL3NlbHZhL0lkZWFQcm9qZWN0cy9IZWxsb3dvcmxkL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXnxZVcJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL3NlbHZhL0lkZWFQcm9qZWN0cy9IZWxsb3dvcmxkL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv

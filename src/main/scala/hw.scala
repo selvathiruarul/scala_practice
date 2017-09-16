@@ -44,15 +44,18 @@ object hw {
     println(n+"C"+r+" = "+(numerator/denominator))
 
 
+
   }
 
 
   def main(args: Array[String]) {
     var result=0
+    var n=args(0).toInt
+    var r=args(1).toInt
     result=factorial(5)
     println(result)
     fibonacci(10)
-    combinations(6,3)
+    combinations(n,r)
     isFibonacci(9)
   }
 }
